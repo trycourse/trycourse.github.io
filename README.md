@@ -1,1 +1,3 @@
 # A course trying to create experiences in World that everyone can enjoy.
+
+[![GitHub issues](https://img.shields.io/github/issues/trycourse/trycourse.github.io.svg)](https://github.com/trycourse/trycourse.github.io/issues) [![GitHub forks](https://img.shields.io/github/forks/trycourse/trycourse.github.io.svg)](https://github.com/trycourse/trycourse.github.io/network) [![GitHub stars](https://img.shields.io/github/stars/trycourse/trycourse.github.io.svg)](https://github.com/trycourse/trycourse.github.io/stargazers) [![GitHub license](https://img.shields.io/github/license/trycourse/trycourse.github.io.svg)](https://github.com/trycourse/trycourse.github.io/blob/master/LICENSE)
